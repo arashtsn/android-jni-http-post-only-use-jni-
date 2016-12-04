@@ -1,3 +1,3 @@
-# android-jni-http-post-only-use-jni
+# android jni http post only use c
 
 http post with socket in android
